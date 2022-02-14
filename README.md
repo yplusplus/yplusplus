@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yplusplus/yplusplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +17,10 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=yplusplus&count_private=true&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yplusplus&layout=compact)
+
+### Hi, there 👋
+
+Have interest in software engineering, distributed system and robotics🤖️, now working for Narwal🐳.
+
+I am good at algorithm and data structure, and enjoying solving and optimizing different problems.
+I spent many years in programming competitions and ranked 19th in 2014 ACM/ICPC World Finals.
